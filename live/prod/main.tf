@@ -9,7 +9,7 @@ terraform {
 }
 
 provider google {
-    credentials = file("./service-account.json")
+    credentials = file("../../service-account.json")
     project = "mythic-music-377411"
     region = "asia-southeast2"
 }

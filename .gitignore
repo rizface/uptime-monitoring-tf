@@ -1,3 +1,4 @@
 .terraform
 service-account.json
 terraform.tfstate.*
+terraform.tfstate
